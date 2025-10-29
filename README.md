@@ -16,8 +16,8 @@
 
 ## 🛠️ Skills
 - HTML, CSS, Tailwind CSS, Bootstrap  
-- JavaScript (ES6+), DOM  
-- Git, GitHub, Netlify  
+- JavaScript (ES6+), DOM , Firebase 
+- Git, GitHub,Github Dekstop, Netlify  
 
 ---
 
