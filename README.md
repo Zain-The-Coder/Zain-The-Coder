@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Hafiz Zain</h1>
-<h3 align="center">Front-end Developer | Student | Lifelong Learner</h3>
+<h1>Hi 👋, I'm Hafiz Zain</h1>
+<h3>Front-end Developer | Student | Lifelong Learner</h3>
 🚀 Passionate about Web Development, Programming & Creative Projects
 
 ---
@@ -47,4 +47,4 @@
 
 ---
 
-⭐ *From YOUR_USERNAME*
+⭐ *From Zain-The-Coder*
