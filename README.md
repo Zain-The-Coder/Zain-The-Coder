@@ -1,4 +1,4 @@
-# 🚀 Hafiz Zain | Front-End Developer
+# 👋 Hafiz Zain | Front-End Developer
 **Building Modern, Responsive & User-Centric Web Experiences**
 
 <div align="center">
