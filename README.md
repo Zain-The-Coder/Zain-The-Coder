@@ -11,7 +11,7 @@
 
 ## 🚀 Journey Milestones
 
-### 🎯 2024 - 2025: Foundation & Growth
+### 🎯 2025 - 2026: Foundation & Growth
 - ✅ **HTML5 & CSS3 Mastery** - Semantic markup and modern styling
 - ✅ **JavaScript ES6+** - Core programming fundamentals
 - ✅ **Tailwind CSS** - Utility-first CSS framework expertise
@@ -20,7 +20,7 @@
 - 🔄 **React.js** - Building interactive UIs (In Progress)
 - 🔄 **Firebase Integration** - Backend services & real-time databases (In Progress)
 
-### 🎯 Current Focus (2025)
+### 🎯 Current Focus (2026)
 - 🚧 **Advanced React Patterns** - Hooks, Context API, Custom Hooks
 - 🚧 **Next.js Framework** - Server-side rendering & static generation
 - 🚧 **State Management** - Redux/Zustand implementation
@@ -28,9 +28,9 @@
 - 🚧 **TypeScript** - Type-safe JavaScript development
 
 ### 🎯 Upcoming Milestones
-- 📅 **Q2 2025:** Full-stack project deployment
-- 📅 **Q3 2025:** Advanced animations with Framer Motion
-- 📅 **Q4 2025:** Open source contributions
+- 📅 **Q2 2026:** Full-stack project deployment
+- 📅 **Q3 2026:** Advanced animations with Framer Motion
+- 📅 **Q4 2026:** Open source contributions
 
 ---
 
@@ -84,38 +84,15 @@
 
 ---
 
-## 💼 What I Bring to the Table
-
-```javascript
-const hafizZain = {
-  code: ["HTML", "CSS", "JavaScript", "React", "Next.js"],
-  technologies: {
-    frontEnd: {
-      css: ["Tailwind CSS", "Bootstrap", "SASS"],
-      js: ["React", "Next.js", "ES6+"]
-    },
-    backEnd: {
-      databases: ["Firebase Firestore", "Firebase Realtime DB"]
-    },
-    tools: ["Git", "GitHub", "Netlify", "Vercel", "Firebase"],
-    design: ["Responsive Design", "Mobile-First", "UI/UX Implementation"]
-  },
-  currentFocus: "Building scalable React applications with Next.js",
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| 🚀 **Project 1** | Modern portfolio website | React, Tailwind CSS | [View →](#) |
-| 🔥 **Project 2** | E-commerce platform | Next.js, Firebase | [View →](#) |
-| 💎 **Project 3** | Task management app | React, Tailwind | [View →](#) |
+| 🚀 **Project 1** | Daraz Clone | React, Tailwind CSS | [View →](https://darazcloone.netlify.app/) |
+| 🔥 **Project 2** | World Wide Messanger | Next.js, Firebase | [View →](https://worldmesanger.netlify.app/) |
+| 💎 **Project 3** | Quiz Application | HTML , CSS , JavaScript | [View →]() |
 
 </div>
 
