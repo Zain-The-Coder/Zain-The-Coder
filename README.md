@@ -1,57 +1,151 @@
-# 👋 Hafiz Zain | Front-End Developer
-**Building Modern, Responsive & User-Centric Web Experiences**
+# 👋 Hi, I'm Hafiz Zain
+### Front-End Developer | Building Modern Web Experiences
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zain-The-Coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-  <img src="https://img.shields.io/github/followers/Zain-The-Coder?label=Followers&style=social" alt="Followers" />
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%26+Next.js+Enthusiast;UI%2FUX+Implementation+Specialist;Building+Scalable+Web+Apps)
+  
 </div>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 **Current Focus:** Crafting pixel-perfect UIs with **Tailwind CSS**.
-- 🌱 **Learning Journey:** Deep diving into **React.js** and **Backend Integration**.
-- 🎯 **Goal:** To build scalable web applications that solve real-world problems.
-- 💬 **Ask me about:** HTML, CSS, JavaScript, and Web Design.
+## 🚀 Journey Milestones
+
+### 🎯 2024 - 2025: Foundation & Growth
+- ✅ **HTML5 & CSS3 Mastery** - Semantic markup and modern styling
+- ✅ **JavaScript ES6+** - Core programming fundamentals
+- ✅ **Tailwind CSS** - Utility-first CSS framework expertise
+- ✅ **Bootstrap** - Responsive component library
+- ✅ **Git & GitHub** - Version control and collaboration
+- 🔄 **React.js** - Building interactive UIs (In Progress)
+- 🔄 **Firebase Integration** - Backend services & real-time databases (In Progress)
+
+### 🎯 Current Focus (2025)
+- 🚧 **Advanced React Patterns** - Hooks, Context API, Custom Hooks
+- 🚧 **Next.js Framework** - Server-side rendering & static generation
+- 🚧 **State Management** - Redux/Zustand implementation
+- 🚧 **Backend Integration** - RESTful APIs & Firebase services
+- 🚧 **TypeScript** - Type-safe JavaScript development
+
+### 🎯 Upcoming Milestones
+- 📅 **Q2 2025:** Full-stack project deployment
+- 📅 **Q3 2025:** Advanced animations with Framer Motion
+- 📅 **Q4 2025:** Open source contributions
 
 ---
 
-### 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
-| **JavaScript** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![ES6](https://img.shields.io/badge/-ES6%2B-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| **Workflow** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) |
+<div align="center">
+
+### Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Libraries & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Zain-The-Coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-The-Coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zain-The-Coder&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  
+</div>
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zain-The-Coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-The-Coder&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zain-The-Coder&theme=tokyonight&hide_border=true" width="95%" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zain-The-Coder&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)
 
 ---
 
-### 📈 Activity Graph
-![Zain's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zain-The-Coder&theme=tokyonight&hide_border=true)
+## 💼 What I Bring to the Table
+
+```javascript
+const hafizZain = {
+  code: ["HTML", "CSS", "JavaScript", "React", "Next.js"],
+  technologies: {
+    frontEnd: {
+      css: ["Tailwind CSS", "Bootstrap", "SASS"],
+      js: ["React", "Next.js", "ES6+"]
+    },
+    backEnd: {
+      databases: ["Firebase Firestore", "Firebase Realtime DB"]
+    },
+    tools: ["Git", "GitHub", "Netlify", "Vercel", "Firebase"],
+    design: ["Responsive Design", "Mobile-First", "UI/UX Implementation"]
+  },
+  currentFocus: "Building scalable React applications with Next.js",
+  funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
 ---
 
-### 🌐 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/hafiz-zain-022680354/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=100078036696617" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="mailto:zain015976@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio-link" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| 🚀 **Project 1** | Modern portfolio website | React, Tailwind CSS | [View →](#) |
+| 🔥 **Project 2** | E-commerce platform | Next.js, Firebase | [View →](#) |
+| 💎 **Project 3** | Task management app | React, Tailwind | [View →](#) |
+
+</div>
 
 ---
-<p align="center"><i>"The best way to predict the future is to create it."</i> <br> **- Zain-The-Coder**</p>
 
-⭐ *From Zain-The-Coder*
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-the-coder)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zain-The-Coder)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zain_codes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+*"First, solve the problem. Then, write the code."* - John Johnson
+
+### 📊 Profile Views
+![Visitor Count](https://profile-counter.glitch.me/Zain-The-Coder/count.svg)
+
+---
+
+**⭐ From [Zain-The-Coder](https://github.com/Zain-The-Coder)**
+
+*Building the future, one commit at a time* 🚀
+
+</div>
