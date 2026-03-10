@@ -17,20 +17,22 @@
 - ✅ **Tailwind CSS** - Utility-first CSS framework expertise
 - ✅ **Bootstrap** - Responsive component library
 - ✅ **Git & GitHub** - Version control and collaboration
-- 🔄 **React.js** - Building interactive UIs (In Progress)
-- 🔄 **Firebase Integration** - Backend services & real-time databases (In Progress)
+- ✅ **React.js** - Building interactive UIs (In Progress)
+- ✅ **Firebase Integration** - Backend services & real-time databases (In Progress)
+- ✅ **Advanced React Patterns** - Hooks, Context API, Custom Hooks
+- ✅ **Next.js Framework** - Server-side rendering & static generation
 
 ### 🎯 Current Focus (2026)
-- 🚧 **Advanced React Patterns** - Hooks, Context API, Custom Hooks
-- 🚧 **Next.js Framework** - Server-side rendering & static generation
 - 🚧 **State Management** - Redux/Zustand implementation
 - 🚧 **Backend Integration** - RESTful APIs & Firebase services
 - 🚧 **TypeScript** - Type-safe JavaScript development
+- 🚧 **Backend Integration** - Express JS , MongoDB
 
 ### 🎯 Upcoming Milestones
 - 📅 **Q2 2026:** Full-stack project deployment
 - 📅 **Q3 2026:** Advanced animations with Framer Motion
 - 📅 **Q4 2026:** Open source contributions
+- 📅 **Q4 2026:** Go To Generative AI
 
 ---
 
