@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Hafiz Zain
-### Front-End Developer | Building Modern Web Experiences
+### MERN Stack Developer || Building Modern Web Experiences || Turn Your Ideas Into Reality
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%26+Next.js+Enthusiast;UI%2FUX+Implementation+Specialist;Building+Scalable+Web+Apps)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%26+Next.js+TypeScript+Tailwindcss;Backend+Specialist;Building+Scalable+Web+Apps)
   
 </div>
 
