@@ -113,8 +113,8 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Zain-The-Coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-The-Coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?user=Zain-The-Coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Zain-The-Coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
   
 </div>
 
