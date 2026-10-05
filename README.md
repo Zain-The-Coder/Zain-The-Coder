@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Hafiz Zain
-### MERN Stack Developer | Full-Stack JavaScript Engineer (React.js · Next.js · Node.js · Express.js) || Diving Into Generative & Agentic AI
+### Full Stack AI Engineer | MERN Stack Developer | Generative AI Engineer | JavaScript Expert
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;TypeScript+%7C+Next.js+%7C+Prisma+%7C+Supabase;Building+Scalable+Full+Stack+Apps;Exploring+Generative+%26+Agentic+AI)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+AI+Engineer;MERN+Stack+Developer+%7C+Generative+AI+Engineer;RAG+Systems+%7C+LangChain+%7C+Python+for+AI;TypeScript+%7C+Next.js+%7C+Prisma+%7C+Supabase;Building+Scalable+AI-Powered+Full+Stack+Apps)
   
 </div>
 
@@ -11,12 +11,13 @@
 
 ## 🧠 About Me
 
+- 🤖 **Full Stack AI Engineer** — I build full-stack apps and integrate **Generative AI** features into them (LLM APIs, **RAG systems**, **LangChain** pipelines)
 - 💻 Full-Stack MERN Developer specializing in **Node.js, Express.js, REST APIs**, with hands-on experience building responsive interfaces using **React.js & Next.js**
+- 🐍 Using **Python for AI** alongside JavaScript/TypeScript to wire AI into production applications
 - 🔐 Skilled in secure authentication (**JWT, NextAuth, RBAC**) and database design across **MongoDB, PostgreSQL, Prisma, and Supabase**
 - 🎓 Diploma-trained in MERN Stack Development from **Saylani Mass IT Training (SMIT)**
 - 🌐 Project portfolio spanning financial systems, social platforms, healthcare, and e-commerce
-- 🤖 2026 Goal: leveling up into **Generative AI** and **Agentic AI** development
-- 📚 Actively seeking full-time MERN / Full-Stack Developer roles
+- 📚 Actively seeking full-time **Full Stack AI / MERN / Generative AI Engineer** roles
 - ⚡ Fun fact: I'd rather debug at 2 AM than leave a bug unsolved
 
 ---
@@ -43,10 +44,15 @@
 - **Socket.IO** — Real-time systems (chat, notifications, live updates)
 - **Docker, AWS, Vercel, Railway, Render** — Cloud, DevOps & CI/CD deployment workflows
 
-### 🎯 2026 Goals — Next Frontier
-- 🤖 **Generative AI** — LLM integration, prompt engineering, RAG pipelines
+### ✅ Generative AI (2026)
+- 🤖 **Generative AI** — LLM integration & prompt engineering
+- 📚 **RAG Systems** — Retrieval-Augmented Generation pipelines
+- 🔗 **LangChain** — Chains, prompts & LLM app orchestration
+- 🐍 **Python for AI** — Everything needed to build and integrate AI into apps
+- 🧩 **AI + MERN** — Integrating AI-powered features into full-stack apps (via Anthropic/OpenAI APIs)
+
+### 🎯 Next Frontier
 - 🧩 **Agentic AI** — Building autonomous AI agents & multi-agent workflows
-- 🔗 **AI + MERN** — Integrating AI-powered features into full-stack apps (via Anthropic/OpenAI APIs)
 - 🎬 **Advanced Animations** — Framer Motion & GSAP
 - 🌍 **Open Source** — Contributing to the dev community
 - 🚀 **Full-Stack AI SaaS** — Shipping a production-grade AI-powered product
@@ -60,6 +66,7 @@
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -74,6 +81,15 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### 🤖 AI / Generative AI
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Python for AI](https://img.shields.io/badge/Python_for_AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=sparkfun&logoColor=white)
 
 ### Databases & ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -94,10 +110,6 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### AI / Emerging (2026 Focus)
-![OpenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/Agentic_AI-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -155,7 +167,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/hafiz-zain-022680354/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-zain-022680354/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zain-The-Coder)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zain-urr-rehman-portfolio.vercel.app)
 
@@ -175,6 +187,6 @@
 
 **⭐ From [Zain-The-Coder](https://github.com/Zain-The-Coder)**
 
-*MERN + TypeScript today, Generative & Agentic AI tomorrow* 🚀
+*MERN + TypeScript + Generative AI today, Agentic AI tomorrow* 🚀
 
 </div>
